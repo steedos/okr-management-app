@@ -32,15 +32,15 @@ Steedos Platform is a visual modeling and descriptive programming development to
 - [Yarn](https://yarnpkg.com/en/) version >= 1.5 (which can be checked by running `yarn version`). Yarn is a performant package manager for JavaScript and replaces the `npm` client. It is not strictly necessary but highly encouraged.
 
 
-## Project Structure
+## okr Structure
 
 ```sh
-project-management-app
+okr-management-app
 ├── steedos-app/main/default
 │   ├── applications
-│   │   └── project.app.yml
+│   │   └── okr.app.yml
 │   └── objects
-│       └──project__c
+│       └──okr__c
 │           ├── buttons
 │           │   └── print.button.yml
 │           │   └── print.button.js
@@ -57,8 +57,8 @@ project-management-app
 │           ├── permissions
 │           │   └── user.permission.yml
 │           │   └── admin.permission.yml
-│           │   └── project_manager.permission.yml
-│           └── project.object.yml
+│           │   └── okr_manager.permission.yml
+│           └── okr.object.yml
 │           └──...
 ├── .env
 ├── .gitignore
