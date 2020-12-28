@@ -2,7 +2,7 @@ const keyResult = require('./okr_keyresults.manager');
 const objective = require('./okr_objective.manager');
 
 module.exports = {
-  listenTo: 'okr_kr_progress__c',
+  listenTo: 'okr_kr_progress__c2',
   beforeInsert: async function () {
     let doc = this.doc;
     let keyResult = await this.getObject('okr_key_results__c').findOne(doc.key_result__c);
