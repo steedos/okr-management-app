@@ -1,0 +1,19 @@
+name: OKR
+code: okr
+icon_slds: announcement
+is_creator: true
+is_new_window: false
+is_use_ie: false
+is_use_iframe: false
+mobile: false
+oauth2_enabled: false
+oauth2_logout_enabled: false
+objects:
+  - okr_objective__c
+  - okr_key_results__c
+  - okr_kr_progress__c
+  - okr_period__c
+saml_enabled: false
+saml_logout_enabled: false
+sort: 9100
+visible: true

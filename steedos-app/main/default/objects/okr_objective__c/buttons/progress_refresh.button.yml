@@ -1,5 +1,5 @@
 name: progress_refresh
 is_enable: true
-label: progress_refresh
-'on': record_only
+label: 刷新绩效
+'on': record
 visible: true
