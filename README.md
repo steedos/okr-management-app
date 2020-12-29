@@ -16,13 +16,21 @@
 </p>
 
 <p align="center" style="border-top: solid 1px #cccccc">
-  Help you track and manage objectives and key results in your orgnization. It also has detailed reporting functions. The system is based on Steedos Platform and metadata driven, which can be quickly customized.
+  A goal management application based on popular OKR framework, manage your business objectives and track your key results. The system is based on Steedos Platform and metadata driven, which can be quickly customized.
 
 </p>
 
 <h3 align="center">
  🤖 🎨 🚀
 </h3>
+
+## Targets
+Steedos OKR Management System enables your organization with
+- Strategic alignment
+- Focus on goals
+- Achievement quantification
+- Transparency & Accountability
+- Employee Engagement
 
 ## About  Steedos Platform
 
