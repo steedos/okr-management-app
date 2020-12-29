@@ -7,8 +7,13 @@
 </p>
 <h1 align="center">
   Steedos OKR Management System
-
 </h1>
+
+<p align="center">
+<a href="https://github.com/steedos/okr-management-app/blob/master/README_cn.md">中文</a>
+<a href="https://github.com/steedos/okr-management-app/issues/"> · Report a bug</a>
+<a href="https://github.com/steedos/okr-management-app/discussions"> · Discussions</a>
+</p>
 
 <p align="center" style="border-top: solid 1px #cccccc">
   Help you track and manage objectives and key results in your orgnization. It also has detailed reporting functions. The system is based on Steedos Platform and metadata driven, which can be quickly customized.

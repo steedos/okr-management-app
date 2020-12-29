@@ -8,6 +8,12 @@
   华炎OKR管理系统
 </h1>
 
+<p align="center">
+<a href="https://github.com/steedos/okr-management-app/blob/master/README.md">English</a>
+<a href="https://github.com/steedos/okr-management-app/issues/"> · 报告错误</a>
+<a href="https://github.com/steedos/okr-management-app/discussions"> · 讨论</a>
+</p>
+
 <p align="center" style="border-top: solid 1px #cccccc">
   帮助您管理组织范围内的目标(Objectives)与关键成果(Key Results)，实时跟踪、自动汇总、全面统计。系统使用华炎魔方平台可视化配置实现，基于元数据驱动，可以快速自定义。
 
@@ -17,7 +23,7 @@
  🤖 🎨 🚀
 </h3>
 
-# 项目管理系统案例
+# OKR管理系统案例
 
 
 
@@ -107,10 +113,10 @@ yarn start
 
 如果您有任何疑问或想与其他华炎魔方用户交谈，请[点击进入讨论](https://github.com/steedos/steedos-platform/discussions)或扫码添加以下联系方式与我们联系！
 ##### 开发人员微信群
-![开发者微信交流群](https://steedos.github.io/assets/github/okr_management_app/cn/QR_wechat_developers.jpg)
+![开发者微信交流群](https://steedos.github.io/assets/github/project_management_app/cn/QR_wechat_developers.jpg)
 
 ##### 商务咨询
-![商务咨询](https://steedos.github.io/assets/github/okr_management_app/cn/business_consulting.jpg)
+![商务咨询](https://steedos.github.io/assets/github/project_management_app/cn/business_consulting.jpg)
 
 ##### 微信公众号
 ![微信公众号](https://www.steedos.com/assets/github/platform/cn/public_number.jpg)
