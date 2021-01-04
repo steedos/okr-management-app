@@ -1,23 +1,27 @@
 {
     "name": "@steedos/app-okr-management",
-    "version": "0.0.1",
+    "version": "1.23.0-alpha.14",
     "description": "",
-    "main": "server.js",
+    "main": "index.js",
     "scripts": {
         "debug": "nodemon server.js",
         "start": "node server.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
-    "license": "ISC",
+    "private": false,
+    "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    },
     "dependencies": {
-        "@steedos/accounts": "^1.23.0-alpha.11",
-        "@steedos/metadata-api": "^1.23.0-alpha.9",
-        "@steedos/steedos-plugin-workflow": "^2.0.8",
-        "dotenv-flow": "^3.1.0",
-        "steedos-server": "^1.23.0-alpha.11"
+        
     },
     "devDependencies": {
+        "@steedos/accounts": "^1.23.0-alpha.14",
+        "@steedos/steedos-plugin-workflow": "^2.0.8",
+        "dotenv-flow": "^3.1.0",
+        "steedos-server": "^1.23.0-alpha.14",
         "nodemon": "^1.19.1"
     },
     "homepage": "https://developer.steedos.com",
