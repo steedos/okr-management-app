@@ -6,7 +6,7 @@
   </a>
 </p>
 <h1 align="center">
-  Steedos OKR Management System
+  Steedos OKR - Employee Performance Management
 </h1>
 
 <p align="center">
@@ -23,7 +23,7 @@ Goal Setting and Employee Performance Management. Openly share your business str
  🤖 🎨 🚀
 </h3>
 
-## Description
+## What is Steedos OKR
 
 OKRs is a powerful management methodology similar to MBO and V2MOM.
 
