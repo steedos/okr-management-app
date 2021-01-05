@@ -23,13 +23,20 @@ Goal Setting and Employee Performance Management. Openly share your business str
  🤖 🎨 🚀
 </h3>
 
-## Targets
-Steedos OKR Management System enables your organization with
-- Strategic alignment
-- Focus on goals
-- Achievement quantification
-- Transparency & Accountability
-- Employee Engagement
+With Steedos OKR, each department, team, and individual aligns their own Objectives and Key Results toward your company goals, focusing on what really matters. Steedos OKR automatically records your OKRs, keeping track of their progress in a transparent way to ensure collaboration and commitment.
+
+Follow a process of planning and alignment by creating periods for each quarter. Track and push best practices to ensure that each individual has the right OKRs. Complete wrap-up phases to perform self-assessments, score objectives, and receive manager feedback, and to determine how to improve for the next cycle. Steedos OKR supports both TOP-DOWN and BOTTOM-UP OKRs.
+
+Steedos OKR is developed entirely within Steedos, allowing you to track your OKRs automatically and in real time by binding any Steedos report to the key result you need to measure.
+
+Features: 
+
+- OKR Alignment 
+- Automatic and Continuous Tracking 
+- OKR Achievement Forecast 
+- Dashboards and Reporting 
+- One on Ones Module 
+- My Focus
 
 ## About  Steedos Platform
 
