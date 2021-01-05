@@ -16,8 +16,7 @@
 </p>
 
 <p align="center" style="border-top: solid 1px #cccccc">
-  A goal management application based on popular OKR framework, manage your business objectives and track your key results. The system is based on Steedos Platform and metadata driven, which can be quickly customized.
-
+Goal Setting and Employee Performance Management. Openly share your business strategy and main company goals with the rest of your organization and encourage the alignment and focus of everyone in your company behind a common objective.
 </p>
 
 <h3 align="center">
