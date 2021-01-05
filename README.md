@@ -23,7 +23,9 @@ Goal Setting and Employee Performance Management. Openly share your business str
  🤖 🎨 🚀
 </h3>
 
-## Features
+## Description
+
+OKRs is a powerful management methodology similar to MBO and V2MOM.
 
 With Steedos OKR, each department, team, and individual aligns their own Objectives and Key Results toward your company goals, focusing on what really matters. Steedos OKR automatically records your OKRs, keeping track of their progress in a transparent way to ensure collaboration and commitment.
 
@@ -31,7 +33,16 @@ Follow a process of planning and alignment by creating periods for each quarter.
 
 Steedos OKR is developed entirely within Steedos, allowing you to track your OKRs automatically and in real time by binding any Steedos report to the key result you need to measure.
 
-Features: 
+### Highlights
+
+Use the same methodology as companies like Google & LinkedIn and get amazing results.
+
+- STEEDOS NATIVE PERFORMANCE MANAGEMENT: Goal Setting and Employee Performance Management - 100% Steedos Native.
+- ALIGNMENT:Plan your strategy and share it with your organization so that everyone on your team knows what really matters.
+- FOCUS & COMMITMENT: Focus your team’s efforts on the main objectives and prioritize the most important tasks.
+- TRACKING & STRETCHING: Bind Steedos reports to Key Results to track and update your progress automatically.
+
+### Features: 
 
 - OKR Alignment 
 - Automatic and Continuous Tracking 
@@ -40,17 +51,7 @@ Features:
 - One on Ones Module 
 - My Focus
 
-## Highlights
-
-- STEEDOS NATIVE PERFORMANCE MANAGEMENT: Goal Setting and Employee Performance Management - 100% Steedos Native.
-- OKRs: A powerful management methodology similar to MBO and V2MOM.
-- ALIGNMENT:Plan your strategy and share it with your organization so that everyone on your team knows what really matters.
-- FOCUS & COMMITMENT: Focus your team’s efforts on the main objectives and prioritize the most important tasks.
-- TRACKING & STRETCHING: Bind Steedos reports to Key Results to track and update your progress automatically.
-
-Use the same methodology as companies like Google & LinkedIn and get amazing results.
-
-## About Steedos
+### About Steedos
 
 [Steedos Platform](https://github.com/steedos/steedos-platform) is an open source alternative to salesforce low code development platform. You can easily create intelligent and mobile enterprise applications by clicking the mouse.
 
