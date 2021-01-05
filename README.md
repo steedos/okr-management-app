@@ -23,6 +23,8 @@ Goal Setting and Employee Performance Management. Openly share your business str
  🤖 🎨 🚀
 </h3>
 
+## Features
+
 With Steedos OKR, each department, team, and individual aligns their own Objectives and Key Results toward your company goals, focusing on what really matters. Steedos OKR automatically records your OKRs, keeping track of their progress in a transparent way to ensure collaboration and commitment.
 
 Follow a process of planning and alignment by creating periods for each quarter. Track and push best practices to ensure that each individual has the right OKRs. Complete wrap-up phases to perform self-assessments, score objectives, and receive manager feedback, and to determine how to improve for the next cycle. Steedos OKR supports both TOP-DOWN and BOTTOM-UP OKRs.
@@ -38,20 +40,26 @@ Features:
 - One on Ones Module 
 - My Focus
 
-## About  Steedos Platform
+## Highlights
 
-Steedos Platform is a visual modeling and descriptive programming development tool. The design goal is to lower the threshold of application construction so that everyone can participate in the development. The system has built-in data modeling and a series of automatic tools, including validation rules, public computing, workflow rules, automatic operation, approval process, report engine and so on.
+- STEEDOS NATIVE PERFORMANCE MANAGEMENT: Goal Setting and Employee Performance Management - 100% Steedos Native.
+- OKRs: A powerful management methodology similar to MBO and V2MOM.
+- ALIGNMENT:Plan your strategy and share it with your organization so that everyone on your team knows what really matters.
+- FOCUS & COMMITMENT: Focus your team’s efforts on the main objectives and prioritize the most important tasks.
+- TRACKING & STRETCHING: Bind Steedos reports to Key Results to track and update your progress automatically.
 
-- [Steedos Platform](https://www.steedos.org/)
+Use the same methodology as companies like Google & LinkedIn and get amazing results.
+
+## About Steedos
+
+[Steedos Platform](https://github.com/steedos/steedos-platform) is an open source alternative to salesforce low code development platform. You can easily create intelligent and mobile enterprise applications by clicking the mouse.
 
 ## Requirements
 
 - [MongoDB](https://www.mongodb.com/try/download/) version >= 3.4. MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era.
 - [Node.js](https://nodejs.org/en/download/) version >= 10.15.1 or above (which can be checked by running `node -v`). You can use [nvm](https://github.com/nvm-sh/nvm) for managing multiple Node versions on a single machine installed.
-- [Yarn](https://yarnpkg.com/en/) version >= 1.5 (which can be checked by running `yarn version`). Yarn is a performant package manager for JavaScript and replaces the `npm` client. It is not strictly necessary but highly encouraged.
 
-
-## okr Structure
+## Project Structure
 
 ```sh
 okr-management-app
