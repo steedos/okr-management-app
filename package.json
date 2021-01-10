@@ -1,6 +1,6 @@
 {
     "name": "@steedos/app-okr-management",
-    "version": "1.23.0-alpha.14",
+    "version": "1.23.0-alpha.15",
     "description": "",
     "main": "index.js",
     "scripts": {
@@ -14,15 +14,12 @@
     "publishConfig": {
         "access": "public"
     },
-    "dependencies": {
-        
-    },
     "devDependencies": {
-        "@steedos/accounts": "^1.23.0-alpha.14",
+        "@steedos/accounts": "^1.23.0-alpha.15",
         "@steedos/steedos-plugin-workflow": "^2.0.8",
         "dotenv-flow": "^3.1.0",
-        "steedos-server": "^1.23.0-alpha.14",
-        "nodemon": "^1.19.1"
+        "nodemon": "^1.19.1",
+        "steedos-server": "^1.23.0-alpha.15"
     },
     "homepage": "https://developer.steedos.com",
     "resolutions": {
