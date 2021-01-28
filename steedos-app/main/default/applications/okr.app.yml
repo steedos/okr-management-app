@@ -1,4 +1,5 @@
-name: OKR
+name: OKR 目标管理
+description: 通过目标与关键结果法，跟踪目标及其完成情况。
 code: okr
 icon_slds: announcement
 is_creator: true
