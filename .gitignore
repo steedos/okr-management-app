@@ -1,3 +1,5 @@
 node_modules
 .env.local
 .DS_Store
+logs
+storage/**
