@@ -1,6 +1,6 @@
 {
     "name": "@steedos/app-okr-management",
-    "version": "1.23.34",
+    "version": "1.23.35",
     "description": "",
     "main": "index.js",
     "scripts": {
